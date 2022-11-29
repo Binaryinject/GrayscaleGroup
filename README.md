@@ -29,7 +29,7 @@ public class Test : MonoBehaviour
 ![](images/4.png)
 ![](images/3.png)
 
-### How to use in TextMeshProUGUI
+### How to use it in TextMeshProUGUI
 1. Create duplicate material from font asset  
 ![](images/1.png)
 2. Rename `Material` suffix to Grayscale  
