@@ -6,6 +6,8 @@ Grayscale effect in ugui such as CanvasGroup
 - A lite API (field `GrayscaleInGroup` control all of child group)
 - TextMeshProUGUI shader prepare to ready
 
+## Warning
+### The plugin uses `OdinInspector` (not included)
 ## How to install
 ### Git Installation or Copy to project
 
