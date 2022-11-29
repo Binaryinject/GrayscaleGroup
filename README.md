@@ -1,5 +1,5 @@
 # GrayscaleGroup
-Grayscale effect in unity such as CanvasGroup
+Grayscale effect in ugui such as CanvasGroup
 
 ## Features
 - Easy to use
