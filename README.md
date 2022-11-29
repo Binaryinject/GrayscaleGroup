@@ -7,7 +7,7 @@ Grayscale effect in ugui such as CanvasGroup
 - TextMeshProUGUI shader prepare to ready
 
 ## Warning
-### The plugin uses `OdinInspector` (not included)
+### The plugin uses [OdinInspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) (not included)
 ## How to install
 ### Git Installation or Copy to project
 
